@@ -1,0 +1,25 @@
+Create Table : CREATE TABLE table_name (attr_name1 attr_type1,
+	       attr_name2 attr_type2, ...)
+
+Drop Table : DROP TABLE table_name
+
+DESCRIBE T_NAME : Describes the schema of table T_NAME.
+
+Insert :  INSERT INTO table_name VALUES(attr_value1,
+	  attr_value2, ...).
+
+Delete : DELETE FROM table_name WHERE condition
+
+Update : UPDATE table_name SET attr1_name = attr1_value,
+	 attr2_name = attr2_value... WHERE condition
+
+Select :  SELECT attr_list FROM table_list WHERE
+	  condition.
+
+HELP TABLES : Prints out the list of tables defined.
+
+HELP CMD : Describes the built-in command CMD, where CMD is
+	   one of the data definition and manipulation commands
+	    listed above.
+
+QUIT : Quits the program.

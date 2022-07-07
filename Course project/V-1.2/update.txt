@@ -1,0 +1,4 @@
+sql command captail
+add describe table,help tables,help cmd,describe
+check table existance
+add select and delete

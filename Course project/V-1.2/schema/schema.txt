@@ -1,0 +1,4 @@
+anime(id int,name varchar,authur varchar,volumns int);
+students(roll INT,standard VARCHAR,sub1 INT,sub2 INT,sub3 INT);
+ashu(name varchar);
+ashu(name varchar);
